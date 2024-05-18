@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 글 못 쓰는 개발자 # the main title
 
-tagline: 저의 개발에 대한 생각과 경험들을 자유롭게 이야기합니다. # it will display as the sub-title
+tagline: 개발에 대한 생각과 경험들을 자유롭게 이야기합니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   sinbom의 개발 블로그
