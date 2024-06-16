@@ -1,1 +1,1 @@
-sinbom.github.io
+[sinbom.github.io](https://sinbom.github.io)
